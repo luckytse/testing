@@ -1,2 +1,3 @@
 
 hello
+insert a line in branch "function"
